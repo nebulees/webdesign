@@ -1,0 +1,19 @@
+DNS translates domain names to IP addresses so browsers can load Internet resources
+It elimates the need for people to memorize their ip addresses, and everyone has their on unique one. 
+Unless you have a vpn, but that's for another story. 
+
+I really want to be a smarty pants and say it's a delicious treat...
+But They're files saved on a web browser from every device that uses the website..
+For example; they remember your username and password so login is easier. 
+
+The protocol. The Domain name. The path. 
+
+
+
+[https://github.com/nebulees/webdesign/blob/1c85811fef526676654a6c0f5594880ccd1aaa6d/assigment03/work]
+
+/responses.txt
+/images/assign 3 1.PNG
+/images/assign 3 2.PNG
+
+I'm sure i'm missing something but I really tried my best....
