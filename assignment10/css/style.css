@@ -1,0 +1,65 @@
+body {
+    background-color: #c8a9b8;
+    font-family: Didot;
+    text-align: center;
+  }
+  
+  div {
+    border: 5px solid #3f5e76;
+    display: inline-block;
+  }
+  
+  img {
+    border-radius: 50%;
+    border: 10px solid #ebadbc;
+  }
+  
+  .inspiration {
+    background-color: #66768b;
+    height: 700px;
+    width: 700px;
+    display: inline-block;
+  }
+  
+  #title {
+    font-size: 50px;
+    background-color: #3f5e76;
+    color: #ebadbc;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .palette {
+    background-color: white;
+    width: 800px;
+  }
+  
+  .dot {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .dot.one {
+    background-color: #c8a9b8;
+  }
+  
+  .dot.two {
+    background-color: #ebadbc;
+  }
+  
+  .dot.three {
+    background-color: #858fa4;
+  }
+  
+  .dot.four {
+    background-color: #66768b;
+  }
+  
+  #square {
+    height: 100px;
+    width: 100px;
+    background-color: #858fa4;
+    display: inline-block;
+  }
