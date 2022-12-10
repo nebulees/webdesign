@@ -1,0 +1,149 @@
+
+#header{
+    background-image: url("");
+}
+
+h1{
+    color: #3A3335;
+    font-family: Merriweather;
+    font-size: 80px;
+    letter-spacing: 0.08em;
+}
+
+#title:hover{
+    letter-spacing: 0.05em;
+    font-weight: 700;
+    color:#A997DF;
+}
+
+.titleBorder{
+    height: 200px;
+    background-color: #6F2DBD;
+    color: black;
+}
+
+.titleBorder:hover{
+    background-color: #A997DF;
+    color: #3A3335;
+    text-indent: 11em;
+    font-family: Quicksand;
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 75px;
+    margin: auto;
+}
+
+.content-paragraph{
+    margin: auto;
+    color: #3A3335;
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 640px;
+    font-family: Quicksand;
+}
+
+.content-paragraph:first-line{
+    font-size: 30px;
+    font-family: Merriweather;
+    line-height: 40px;
+}
+
+.poem-link{
+    text-decoration: none;
+    color: #6D435A;
+}
+.poem-link:hover{
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.poem-link:visited{
+    color: #6D435A;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-left: 500px;
+}
+
+img {
+    border: 20px solid #352D39;
+}
+
+#img-link:hover{
+    border: 50px solid #352D39;
+}
+/* Menu */
+
+header {
+    position: fixed;
+    background-color:#d0d3e0;
+    width:99%;
+    height: 4em;
+    top: 0px; 
+    font-family: Merriweather; 
+    text-align: right;
+    }
+    
+    .menu-item:hover { 
+        background-color:#6F2DBD;
+        color:#333
+    }
+    
+    /* layout */ 
+    .menu-item {
+    display:inline-block;
+    margin: 1em .2em;
+    background-color: #333;
+    padding: 0.5em 0.5em;
+    border-radius: 1em;
+    min-width: 6em;
+    text-align: center;
+    }
+    
+    /*link*/
+    .menu-item a {
+    color:white;
+    text-decoration: none;
+    }
+    
+    /*dropdown*/ 
+    .dropdown {
+        display:inline-block;
+    }
+    .dropdown-content { 
+        display:none;
+        position: absolute;
+        margin: 0.5em 0 0 -1em;
+        color:#d0d3e0; 
+        background-color: #fff;
+        z-index: 1;
+        border-radius: 0em 0em 1em 1em;
+    }
+    
+    .dropdown:hover .dropdown-content {
+        display:block;
+    }
+    
+    .dropdown-content a {
+        color:#000
+    }
+    
+    /*dropdown style*/ 
+    .dropdown-item {
+        display:block;
+        text-align left;
+        margin: 0;
+        padding: 0.5em 1em 0.5em 1em;
+        min-width: 6em;
+    }
+    
+    .dropdown-item:hover, .dropdown-item:hover a {
+        color:white;
+        background-color: #6F2DBD;
+    }
